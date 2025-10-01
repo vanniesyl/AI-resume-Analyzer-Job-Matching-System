@@ -1,0 +1,10 @@
+streamlit
+spacy
+sklearn
+PyPDF2
+nltk
+pyngrok
+pandas
+numpy
+matplotlib
+seaborn
