@@ -8,3 +8,9 @@ pandas
 numpy
 matplotlib
 seaborn
+sentence-transformers
+torch
+plotly
+kaleido
+docx2txt
+
