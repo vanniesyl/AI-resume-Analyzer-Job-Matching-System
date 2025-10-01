@@ -107,5 +107,3 @@ The app will start a local server and be available in your web browser at `http:
 3. **View Results**: The app will display a similarity score and highlight matching skills and experience.
 
 ---
-
-You can now copy and paste this content directly into your GitHub repository's `README.md` file.
